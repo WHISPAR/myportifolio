@@ -23,12 +23,16 @@ const Header = () => {
     }`}>
       <div className="container mx-auto px-6 py-4">
         <div className="flex justify-between items-center">
+          {/* Logo */}
           <div className="text-2xl font-semibold bg-gradient-to-r from-gray-800 to-gray-600 dark:from-white dark:to-gray-300 bg-clip-text text-transparent">
             Wilson Wasili
           </div>
           
           <div className="flex items-center space-x-6">
+            {/* Navigation */}
             <Navigation />
+            
+            {/* Theme Toggle */}
             <ThemeToggle />
           </div>
         </div>
