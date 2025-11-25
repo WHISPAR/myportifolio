@@ -9,7 +9,7 @@ import Contact from '../sections/Contact';
 
 const Home = () => {
   return (
-    <div className="pt-16"> {/* Padding to account for fixed header */}
+    <div className="pt-16">
       <Hero />
       <About />
       <Skills />
