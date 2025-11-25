@@ -37,22 +37,22 @@ const About = () => {
             <div className="space-y-4">
               <div className="flex items-center">
                 <span className="w-32 text-gray-500 font-medium">Name:</span>
-                <span className="text-gray-800">Your Name</span>
+                <span className="text-gray-800">WILSON WASILI</span>
               </div>
               
               <div className="flex items-center">
                 <span className="w-32 text-gray-500 font-medium">Email:</span>
-                <span className="text-gray-800">your.email@example.com</span>
+                <span className="text-gray-800">wilsonwasili7@gmail.com</span>
               </div>
               
               <div className="flex items-center">
                 <span className="w-32 text-gray-500 font-medium">Location:</span>
-                <span className="text-gray-800">Your City, Country</span>
+                <span className="text-gray-800">BLANTYRE, MALAWI</span>
               </div>
               
               <div className="flex items-center">
                 <span className="w-32 text-gray-500 font-medium">Experience:</span>
-                <span className="text-gray-800">3+ Years</span>
+                <span className="text-gray-800">2+ Years</span>
               </div>
             </div>
             
@@ -60,11 +60,11 @@ const About = () => {
               <h5 className="text-lg font-semibold mb-4 text-gray-800">Quick Stats</h5>
               <div className="grid grid-cols-2 gap-4">
                 <div className="text-center">
-                  <div className="text-2xl font-bold text-blue-500">50+</div>
+                  <div className="text-2xl font-bold text-blue-500">5+</div>
                   <div className="text-sm text-gray-600">Projects</div>
                 </div>
                 <div className="text-center">
-                  <div className="text-2xl font-bold text-blue-500">30+</div>
+                  <div className="text-2xl font-bold text-blue-500">2+</div>
                   <div className="text-sm text-gray-600">Clients</div>
                 </div>
               </div>
